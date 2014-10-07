@@ -1,5 +1,6 @@
 Background Location Update Programming for iOS 7
 ==============
+Test commit.
 
 Most of the solutions before iOS 7 work well because during that time the system does not 
 have multitasking and the system does not automatically move the app from background mode 
